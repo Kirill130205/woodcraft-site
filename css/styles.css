@@ -619,7 +619,7 @@ section {
   aspect-ratio: 3 / 4;
   padding: 20px 30px;
   border: 35px solid transparent;
-  border-image: url('../img/frame.png') 100 stretch;
+  border-image: url('../img/frame.png') 130 stretch;
   background: url('../img/services-bg.jpg') center / cover no-repeat;
   display: flex;
   flex-direction: column;
@@ -631,6 +631,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
