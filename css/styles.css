@@ -170,8 +170,8 @@ section {
 
 .board-bg {
     background: url("../img/board-bg.png") no-repeat center/cover;
-    padding: 100px 60px;
-    max-width: 1125px;
+    padding: 60px 80px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
@@ -537,7 +537,7 @@ section {
 
   .board-bg {
     max-width: 900px;
-    padding: 100px 60px;
+    padding: 80px 60px;
   }
 
   .service-card {
@@ -570,7 +570,7 @@ section {
   }
 
   .board-bg {
-    max-width: 1100px;
+    max-width: 1000px;
   }
 
   .service-card {
@@ -597,7 +597,7 @@ section {
   }
 
   .board-bg {
-    max-width: 1125px;
+    max-width: 1000px;
   }
 
   .works-grid {
@@ -609,4 +609,5 @@ section {
     height: 700px;
   }
 }
+
 
