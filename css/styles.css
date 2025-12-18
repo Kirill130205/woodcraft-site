@@ -614,7 +614,15 @@ section {
   .works-grid {
     gap: 50px 100px;
   }
-
+  
+.service-cards {
+  display: flex;
+  gap: 45px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+  
 .service-card {
   width: 100%;
   max-width: 380px;
@@ -633,6 +641,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
