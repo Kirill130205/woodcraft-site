@@ -17,7 +17,7 @@ body {
   font-size: 26px;
   background-image: url('../img/wood-bg.jpg');
   background-size: cover;
-  background-attachment: scroll;
+  background-attachment: fixed;
   color: var(--brown-main);
 }
 
@@ -169,9 +169,9 @@ section {
 }
 
 .board-bg {
-    background: url("../img/board-bg.jpg") no-repeat center/cover;
-    padding: 60px 80px;
-    max-width: 1000px;
+    background: url("../img/board-bg.png") no-repeat center/cover;
+    padding: 100px 60px;
+    max-width: 1125px;
     margin: 0 auto;
 }
 
@@ -537,7 +537,7 @@ section {
 
   .board-bg {
     max-width: 900px;
-    padding: 80px 60px;
+    padding: 100px 60px;
   }
 
   .service-card {
@@ -570,7 +570,7 @@ section {
   }
 
   .board-bg {
-    max-width: 1000px;
+    max-width: 1100px;
   }
 
   .service-card {
@@ -597,7 +597,7 @@ section {
   }
 
   .board-bg {
-    max-width: 1000px;
+    max-width: 1125px;
   }
 
   .works-grid {
@@ -609,4 +609,3 @@ section {
     height: 700px;
   }
 }
-
