@@ -267,6 +267,8 @@ section {
   display: flex;
   gap: 45px;
   justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
 }
 
 .service-card {
@@ -631,6 +633,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
