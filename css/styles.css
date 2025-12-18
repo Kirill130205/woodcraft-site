@@ -169,7 +169,7 @@ section {
 }
 
 .board-bg {
-    background: url("../img/board-bg.png") no-repeat center/cover;
+    background: url("../img/board-bg.webp") no-repeat center/cover;
     padding: 100px 60px;
     max-width: 1125px;
     margin: 0 auto;
@@ -611,6 +611,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
