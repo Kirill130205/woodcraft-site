@@ -625,12 +625,21 @@ section {
   flex-direction: column;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
-  
+
+  .service-cards {
+  display: flex;
+  gap: 45px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
   .map-frame {
     width: 1100px;
     height: 700px;
   }
 }
+
 
 
 
