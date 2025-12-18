@@ -418,6 +418,13 @@ section {
   opacity: 1;
 }
 
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation: none !important;
+        transition: none !important;
+    }
+}
+
 @media (max-width: 599px) {
 
   body {
@@ -623,6 +630,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
