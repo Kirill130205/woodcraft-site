@@ -627,7 +627,7 @@ section {
   width: 100%;
   max-width: 380px;
   aspect-ratio: 3 / 4;
-  padding: 20px 30px;
+  padding: 10px 20px;
   border: 35px solid transparent;
   border-image: url('../img/frame.png') 100 stretch;
   background: url('../img/services-bg.jpg') center / cover no-repeat;
@@ -641,6 +641,7 @@ section {
     height: 700px;
   }
 }
+
 
 
 
