@@ -606,17 +606,24 @@ section {
     gap: 50px 100px;
   }
 
-  .service-card {
+.service-card {
   width: 30%;
   height: 560px;
   padding: 20px 30px;
-  } 
+  border: 35px solid transparent;
+  border-image: url('../img/frame.png') 100 stretch;
+  background: url('../img/services-bg.jpg') center / cover no-repeat;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
   
   .map-frame {
     width: 1100px;
     height: 700px;
   }
 }
+
 
 
 
